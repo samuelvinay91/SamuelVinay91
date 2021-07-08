@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-[![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelVinay91)](https://github.com/anuraghazra/github-readme-stats)
+[![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelVinay91)]
 
 
 I am a SDET from India actively working on Software Test Automation Projects and IOT based Projects
