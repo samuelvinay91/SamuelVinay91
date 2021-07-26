@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a SDET from India actively working on Software Test Automation Projects and IOT based Projects
+I am a SDET from India actively working on Software Test Automation Projects.
 
 - Working on multiple frontend and API Automation projects using various technologies
 - Learning Architectural and design patterns in depth
